@@ -358,13 +358,3 @@ Executing all this in `python manage.py shell` :
 
 * Other guidelines - Feel free to suggest any more feature or raise a pull request.
 
-### Who do I talk to? 
-***
-
-* Author - Niranjan Singh (niranjan@seynse.com).
-
-
-### Acknowledgments 
-***
-
-* **Sukhneer Guron** - Inspired and helped in structuring logging from a project to a library.
