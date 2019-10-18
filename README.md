@@ -49,7 +49,7 @@ set their values globally only once when they change .
 ## Installation ##
 ***
 
-    pip install git+https://bitbucket.org/SeynseDev/seynse-logging/.git
+    pip install git+https://github.com/prafulbagai/seynse_logger.git
 
 ## Quick start ##
 ***
