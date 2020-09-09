@@ -1,7 +1,1 @@
-arrow==0.12.1
-Django==1.11
-pkg-resources==0.0.0
-python-dateutil==2.6.1
-pytz==2017.3
-six==1.11.0
-requests==2.18.4
+
