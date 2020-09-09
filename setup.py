@@ -8,7 +8,6 @@ setup(name='seynse_logger',
       author_email='niranjan@seynse.com',
       description='Logging package to log formatted logs so that its readable via kibana, '
                   'specifically designed for seynse.',
-      dependency_links=['https://pypi.deploy.loansingh.com/', ],
       packages=find_packages('.', exclude='logger_test'),
       install_requires=[
           'Django>=1.8,<2',
